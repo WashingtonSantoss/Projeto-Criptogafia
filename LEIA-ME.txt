@@ -1,0 +1,11 @@
+# Como usar
+
+O programa de criptografia deve ser iniciado antes e nele sera gerado uma chave que ficara armazenada no arquivo
+"chaves.txt", caso o arquivo nao exista ele sera criado, apos geradada a chave, apenas insira a chave e em seguida 
+o que deseja criptografar.
+
+A descriptografia pode verificar a chave existente e descriptografar, para descriptografar sera necessario usar ou
+a chave associada ou mesmo a chave original em gerada em hexadecimal.
+
+Os programas funcionam de modo independente, a unica coisa que os ligam são as chaves geradas que devem ser
+armazenadas no arquivo "chaves.txt"
